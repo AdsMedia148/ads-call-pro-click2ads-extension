@@ -1,1 +1,1 @@
-// Placeholder content for popup.js
+document.getElementById('btn-call-webrtc').addEventListener('click', function () { window.open('phone-ads-softphone/index.html', '_blank', 'width=350,height=500'); });

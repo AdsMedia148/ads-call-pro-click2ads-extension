@@ -1,1 +1,1 @@
-// Placeholder content for background.js
+// Service worker script
